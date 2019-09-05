@@ -2,4 +2,4 @@
 222222
 333333
 Creating a new branch is quick.
-Students studying in classroom.
+Creating a new branch is quick & simple.
