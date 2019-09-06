@@ -9,3 +9,4 @@ Creating a new branch is quick and simple.
 =======
 Git is a free software.
 >>>>>>> e31f5db67f334d052a8ca29d318532bbe5d4c89a
+I want to  be happy and freestyle.
